@@ -1,0 +1,16 @@
+body{
+    background-color: whitesmoke;
+}
+
+h1 {
+    color: lightsalmon;
+}
+
+.form,
+.grettings {
+    display: none;
+}
+
+.showing{
+    display: block;
+}
